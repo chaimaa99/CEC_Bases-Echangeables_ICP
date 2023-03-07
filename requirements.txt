@@ -1,0 +1,10 @@
+matplotlib
+numpy
+openpyxl
+pandas
+pymongo
+scikit-learn
+scipy
+streamlit
+datetime
+configparser
